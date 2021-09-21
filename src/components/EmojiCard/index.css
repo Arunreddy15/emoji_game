@@ -1,0 +1,18 @@
+/* Write your code here. */
+
+.card-item {
+  list-style: none;
+  background-color: #ffffff33;
+  border-radius: 10px;
+  padding: 25px;
+  border: 1px solid white;
+  margin: 20px;
+}
+.emoj {
+  height: 100px;
+  width: 100px;
+}
+button {
+  background-color: transparent;
+  border: 0px;
+}

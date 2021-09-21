@@ -1,0 +1,15 @@
+/* Write your code here. */
+.game-container {
+  background: linear-gradient(to right, #9796f0, #fbc7d4);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  justify-content: center;
+}

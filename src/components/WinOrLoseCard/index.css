@@ -1,0 +1,35 @@
+/* Write your code here. */
+.card-container {
+  display: flex;
+  align-items: center;
+  border-radius: 12px;
+  border: 2px solid white;
+  justify-content: space-around;
+  width: 70%;
+  padding: 20px;
+  margin: 100px 0;
+}
+.state-card {
+  height: 400px;
+}
+.play-again-button {
+  background-color: #ffce27;
+  padding: 10px 15px;
+  font-weight: 600;
+  font-size: 16px;
+  border-radius: 8px;
+}
+.your {
+  color: white;
+  font-size: 40px;
+}
+.scoreboard {
+  color: #6a59ff;
+  font-size: 30px;
+  font-weight: 600;
+}
+.best-score {
+  color: white;
+  font-size: 30px;
+  font-weight: 600;
+}
